@@ -27,7 +27,7 @@ public class Calculadora {
         this.numero1 = numero1;
         this.numero2 = numero2;
     }
-
+//hola
     public Calculadora() {
 
     }
@@ -36,9 +36,7 @@ public class Calculadora {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
+    
 
     // sets and gets
     public void setNumero1(double numero1) {
